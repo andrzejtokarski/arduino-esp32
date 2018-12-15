@@ -1,0 +1,5 @@
+{
+  "name": "arduino-esp32",
+  "frameworks": "*",
+  "platforms": "*"
+}
